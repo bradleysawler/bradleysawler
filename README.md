@@ -1,7 +1,7 @@
 [![bradley sawler header](https://raw.githubusercontent.com/bradleysawler/bradleysawler/readme_header.png "Header")](https://bradleysawler.com/)
 ### Hi there 👋
 
-I can also be found over here on the socials [![Twitter][1.2]][1],  or on [![LinkedIn][4.2]][3].
+I can also be found over here on the socials [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -28,7 +28,7 @@ I can also be found over here on the socials [![Twitter][1.2]][1],  or on [![Lin
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: http://tbd.ca
+[3.2]: https://github.com/bradleysawler/bradleysawler/blob/master/linkedin_icon.png (linked in icon)
 
 
 
