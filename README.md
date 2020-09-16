@@ -1,4 +1,4 @@
-[![bradley sawler header](https://raw.githubusercontent.com/bradleysawler/bradleysawler/readme_header.png "Header")](https://bradleysawler.com/)
+[![bradley sawler header](https://github.com/bradleysawler/bradleysawler/blob/master/Bradley%20Sawler.jpg "Header")](https://bradleysawler.com/)
 ### Hi there 👋
 
 I can also be found over here on the socials [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
